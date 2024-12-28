@@ -4,10 +4,18 @@
 - 💞️ I’m looking to collaborate with python developer
 - 📫 How to reach me kumarlikith178@gmail.com
 
+
 🛠️ Tech Toolbox
   
-💻 Languages: C,Python
-🌐 Web: HTML,CSS,javascript
+Languages: JavaScript, Python, C
+
+Frontend: HTML, CSS
+
+AI/ML Frameworks: Scikit-Learn
+
+Tools: Selenium
+
+IDEs: VS Code, PyCharm, Jupyter Notebook, Google colab
 
 
 🚴‍♀️ Hobbies & Interests
