@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate with python developer
 - 📫 How to reach me kumarlikith178@gmail.com
 
-- 🛠️ Tech Toolbox
+🛠️ Tech Toolbox
+  
 💻 Languages: C,Python
 🌐 Web: HTML,CSS,javascript
 
